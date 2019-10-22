@@ -26,3 +26,6 @@
   1. Define state: is set of parameters to determine position
   2. formulate relation among states
   3. add memoization/store in table
+
+## Problems done
+- https://leetcode.com/problems/min-cost-climbing-stairs
