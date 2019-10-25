@@ -28,4 +28,11 @@
   3. add memoization/store in table
 
 ## Problems done
-- https://leetcode.com/problems/min-cost-climbing-stairs
+- easy
+  - https://leetcode.com/problems/min-cost-climbing-stairs
+  - https://leetcode.com/problems/climbing-stairs/
+  - https://leetcode.com/problems/is-subsequence/
+  - https://leetcode.com/problems/house-robber/
+- medium
+  - https://leetcode.com/problems/counting-bits/
+
